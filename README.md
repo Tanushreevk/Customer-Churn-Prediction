@@ -148,8 +148,14 @@ Customer-Churn-Prediction/
 
 
 
+
+
 \## 📈 Results
 
+## 📊 Project Outputs
+
+![Confusion Matrix](images/confusion_matrix.png)
+![Feature Importance](images/feature_importance.png)
 
 
 \* Achieved good prediction accuracy on test data
